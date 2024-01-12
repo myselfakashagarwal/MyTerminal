@@ -1,0 +1,2 @@
+# MyTerminal
+My terminal setup ! 
