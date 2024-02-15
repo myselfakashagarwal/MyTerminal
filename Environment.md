@@ -66,7 +66,7 @@ export clear
 
 
 # Get IPv4
-alias myip=curl -4 -s https://ipv4.icanhazip.com
+alias myip="curl -4 -s https://ipv4.icanhazip.com"
 export myip
 
 ```

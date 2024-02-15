@@ -3,7 +3,7 @@
 The terminal I use it the [Tabby](https://tabby.sh/) for your setup Just download the Tabby and goto settings > config file and paste the configurations also please consider that ⌘ key of mac is an alias for Super key in non mac keyboards 
 
 ```
-version: 1
+version: 7
 profiles: []
 groups: []
 configSync:
@@ -175,27 +175,27 @@ hotkeys:
 terminal:
   searchOptions: {}
   colorScheme:
-    name: dull color
-    foreground: '#455a64'
+    name: base2tone-meadow-dark
+    foreground: '#ffffff'
     background: rgb(0, 0, 0)
-    cursor: '#81c784'
+    cursor: '#00838f'
     colors:
-      - '#ff5722'
-      - '#3e91ac'
-      - '#00695c'
-      - '#fce4ec'
-      - '#499fbc'
-      - rgb(158, 158, 158)
-      - '#62b1cb'
-      - '#7ba8b7'
-      - '#3d6876'
-      - '#afb42b'
-      - '#ffcdd2'
-      - '#335966'
-      - '#467686'
-      - '#a5d8e9'
-      - '#c4b031'
-      - '#e1f7ff'
+      - '#dce775'
+      - '#fff176'
+      - '#4db6ac'
+      - '#a6f655'
+      - '#0288d1'
+      - '#ffffff'
+      - '#aed581'
+      - '#0288d1'
+      - '#00838f'
+      - '#8cdd3c'
+      - '#223644'
+      - '#335166'
+      - '#466b86'
+      - '#ad1457'
+      - '#c2185b'
+      - '#4db6ac'
   customColorSchemes:
     - name: base2tone-meadow-dark
       foreground: '#ffffff'
@@ -268,6 +268,7 @@ terminal:
       - '#8959a8'
       - '#3e999f'
       - '#ffffff'
+  font: JetBrainsMono Nerd Font Mono
 ssh: {}
 clickableLinks: {}
 accessibility:
@@ -299,4 +300,5 @@ profileDefaults:
 recoverTabs: false
 searchInBrowserPlugin: {}
 pluginBlacklist: []
+
 ```
